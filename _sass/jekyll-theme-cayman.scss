@@ -105,6 +105,55 @@ a {
   }
 }
 
+.btn-icon {
+  display: inline-block;
+  margin-bottom: 1.0rem;
+  border-radius: 0.3rem;
+
+  vertical-align: bottom;
+
+  + .btn-icon {
+    margin-left: 1rem;
+  }
+
+  @include large {
+    margin-left: 0.75rem;
+    margin-bottom: 1.25rem;
+    /*margin-right: 0.9rem;*/
+  }
+
+  @include medium {
+    margin-left: 0.6rem;
+    margin-bottom: 1.1rem;
+    /*margin-right: 0.9rem;*/
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    /*display: flex;
+    justify-content: center;
+
+    width: 100%;*/
+    margin-left: 0.75rem;
+    margin-right: 0.9rem;
+    font-size: 0.9rem;
+
+    + .btn-icon {
+      /*margin-top: 1rem;*/
+      margin-left: 0;
+    }
+  }
+}
+
+.btn-small {
+  @include small {
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+  }
+}
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
