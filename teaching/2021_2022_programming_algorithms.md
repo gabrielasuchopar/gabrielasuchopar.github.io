@@ -18,6 +18,7 @@ ale je možné chodit i na přednášku [Tomáše Holana](https://ksvi.mff.cuni.
 
 Pokud jste pokročilejší (např. jste řešili [KSP](https://ksp.mff.cuni.cz)), mohlo by se vám líbit cvičení [Martina Mareše](http://mj.ucw.cz/vyuka/2021/p1x/) pro pokročilé.
 
+----
 ## Informace o aktuální situaci COVID-19
 
 Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-skoly) a [zde pro matfyz](https://www.mff.cuni.cz/cs/koronavirus). 
@@ -32,6 +33,9 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
 
 **Obsah stránky**
 - [Podmínky zápočtu](#zapocet)
+    - [Algoritmizace](#zap-algo)
+    - [Programování 1](#zap-progr)
+    - [Bonusové body](#body)
 - [Dotazy a konzultace](#konzultace)
 - [Obsah cvičení](#obsah-cvik)
     - [4. 10. 2021](#cviko-0410)
@@ -46,6 +50,42 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
 ----
 
 ## <a name="zapocet"></a> Podmínky zápočtu
+
+Podmínky k splnění předmětu jsou různé pro oba předměty:
+
+### <a name="zap-algo"></a> Algoritmizace
+K splnění Algoritmizace musíte získat **zápočet** + splnit **zkoušku** z probrané látky.
+Podmínkou zápočtu je získání **alespoň 70 % bodů** ze všech zadaných úkolů
+(těch bude cca 10).
+Kromě toho lze získat bonusové body (nezapočítávají se do součtu):
+
+1. Na začátku každé hodiny bude malý testík, kde můžete získat bonusové body.
+2. Občas bude zadán (těžší) úkol za body navíc.
+3. Aktivita v hodině.
+
+
+
+### <a name="zap-progr"></a> Programování 1
+K splnění Programování 1 musíte získat **zápočet**, zkouška je až v letním semestru.
+Je ale více podmínek pro získání zápočtu:
+
+1. Zisk alespoň 80 % bodů z úkolů.
+2. Napsání zápočtového testu == program v ReCodExu psaný během cvika (poslední dvě cvika)
+3. Napsání zápočtového programu - téma rozmyslet do listopadu, více info později
+
+### <a name="body"></a> Bonusové body
+Kromě toho je možné získat body navíc (zvlášť algoritmizace a programování):
+
+1. Na začátku každé hodiny bude malý testík.
+2. Občas bude zadán (těžší) úkol za body navíc.
+3. Aktivita v hodině.
+
+Body z 2. se připočtou přímo, body (1. + 3.) se přepočítají tak, aby daly dohromady
+15 % bodů z Algoritmizace, a 25 % bodů z Programování 1.
+
+Tj. pokud bude zadáno celkem 100b z Programování a jen 10b z (1. + 3.), každý bod
+aktivity se násobí 2,5.
+
 
 ## <a name="konzultace"></a> Dotazy a konzultace
 Konzultační hodiny nemám, napište mi na mail a domluvíme se. Místo `at` je zavináč, používá se na webech kvůli botům.
@@ -67,7 +107,7 @@ Zde budu zveřejňovat stručný přehled toho, co jsme na cviku dělali.
 
 ### <a name="cviko-1110"></a> 11.10.2021
 
-
+----
 ## <a name="faq"></a> FAQ
 
 ### <a name="ide"></a> V čem budeme programovat?
@@ -109,7 +149,7 @@ Základní informace a slajdy najdete na stránkách přenášejících, viz [v�
     
 ### <a name="absence"></a> Nebyl/a jsem nebo nebudu na cvičení, co mám dělat?
 Pokud jde jen o jedno cviko (jeden týden nemůžete), buď si probranou látku zjistěte
-od spolužáků, nebo mi napište na mail.
+od spolužáků, nebo mi napište na mail. Když napíšete dostatečně dopředu, pošlu vám úvodní testík na mail na začátku cvika.
 
 Pokud jde o delší absenci, dejte mi vědět **včas** a domluvíme se.
 
