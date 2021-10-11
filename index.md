@@ -4,3 +4,8 @@
 
 layout: default
 ---
+
+PhD student in AutoML, MFF UK
+
+More info coming soon
+
