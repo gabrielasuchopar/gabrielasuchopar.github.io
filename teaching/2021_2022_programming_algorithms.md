@@ -104,6 +104,9 @@ o víkendech nečtu, takže některé věci pište rovnou na osobní mail, např
 Zde budu zveřejňovat stručný přehled toho, co jsme na cviku dělali.
 
 ### <a name="cviko-0410"></a> 4.10.2021
+TBD
+
+[Notebook s kódem](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_1/prvni_cviko.ipynb).
 
 ### <a name="cviko-1110"></a> 11.10.2021
 
@@ -123,7 +126,7 @@ Na rychlé zkoušení věcí nebo psaní poznámek se hodí [Google Colab](https
 Domácí úkoly budou zadávány a odevzdávány pomocí systému ReCodEx.
 
 Postup pro první přihlášení do ReCodExu:
-- https://recodex.mff.cuni.cz/login
+- [https://recodex.mff.cuni.cz/login](https://recodex.mff.cuni.cz/login)
 - V sekci `Přihlásit se pomocí externí služby` klikněte na `Ověřit uživatele`
 - Přihlaste se pomocí Centrální Autentizační Služby (CAS)
     - Jméno a heslo jsou stejné jako do SISu.
