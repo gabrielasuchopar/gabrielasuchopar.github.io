@@ -39,7 +39,9 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
 - [Dotazy a konzultace](#konzultace)
 - [Obsah cvičení](#obsah-cvik)
     - [4. 10. 2021](#cviko-0410)
-    - [11. 10. 2021](#cviko-1110) (bude)
+    - [11. 10. 2021](#cviko-1110)
+    - [18. 10. 2021](#cviko-1810) (plán)
+    - [25. 10. 2021](#cviko-2510) (plán)
 - [FAQ](#faq)
     - [V čem budeme programovat?](#ide)
     - [Kam budeme odevzdávat úkoly?](#ukoly)
@@ -102,13 +104,41 @@ o víkendech nečtu, takže některé věci pište rovnou na osobní mail, např
 
 ## <a name="obsah-cvik"></a> Obsah cvičení
 Zde budu zveřejňovat stručný přehled toho, co jsme na cviku dělali.
+Cvičný kód najdete v repozitáři na mém [GitHubu](https://github.com/gabrielasuchopar/programming1).
 
 ### <a name="cviko-0410"></a> 4.10.2021
-TBD
+Úlohy na procvičení
+- Ciferný součet 2021!
+- [Problém čtyř skleniček](https://en.wikipedia.org/wiki/Four_glasses_puzzle)
 
-[Notebook s kódem](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_1/prvni_cviko.ipynb).
+- Vážení kuliček pomocí dvojramenných vah
+    - nalezení nejtěžší kuličky
+    - nalezení nejlehčí a nejtěžší
+
+Úvod do programování
+- [Notebook s kódem](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_1/prvni_cviko.ipynb).
+    - Základní příkazy, rozdělení posloupnosti do dvojic
 
 ### <a name="cviko-1110"></a> 11.10.2021
+Asymptotická časová složitost
+- vysvětlení, co to znamená (přirovnání k větší-menší)
+- procvičování O-notace
+
+ReCodEx
+- přihlášení
+- 5 základních úloh, 1 DÚ
+- [čtení vstupu](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_2/read_input.py)
+
+### <a name="cviko-1810"></a> 18.10.2021
+Plán:
+- znovu projít základní příkazy + menší rozšíření
+    - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_3/treti_cviko.ipynb)
+- společné debuggování kódu, který nefunguje
+- úlohy z minula a nové úlohy
+
+### <a name="cviko-2510"></a> 25.10.2021
+Plán:
+- vyhodnocení úkolů z algoritmizace
 
 ----
 ## <a name="faq"></a> FAQ
