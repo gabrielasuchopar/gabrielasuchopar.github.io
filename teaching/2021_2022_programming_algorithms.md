@@ -145,6 +145,7 @@ ReCodEx
 
 ### <a name="cviko-0111"></a> 1.11.2021
 Plán:
+- [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_5/pate_cviko.ipynb)
 
 ----
 ## <a name="faq"></a> FAQ
