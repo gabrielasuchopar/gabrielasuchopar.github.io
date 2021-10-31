@@ -40,8 +40,9 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
 - [Obsah cvičení](#obsah-cvik)
     - [4. 10. 2021](#cviko-0410)
     - [11. 10. 2021](#cviko-1110)
-    - [18. 10. 2021](#cviko-1810) (plán)
-    - [25. 10. 2021](#cviko-2510) (plán)
+    - [18. 10. 2021](#cviko-1810)
+    - [25. 10. 2021](#cviko-2510)
+    - [1. 11. 2021](#cviko-0111) (plán)
 - [FAQ](#faq)
     - [V čem budeme programovat?](#ide)
     - [Kam budeme odevzdávat úkoly?](#ukoly)
@@ -130,15 +131,20 @@ ReCodEx
 - [čtení vstupu](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_2/read_input.py)
 
 ### <a name="cviko-1810"></a> 18.10.2021
-Plán:
 - znovu projít základní příkazy + menší rozšíření
     - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_3/treti_cviko.ipynb)
 - společné debuggování kódu, který nefunguje
 - úlohy z minula a nové úlohy
 
 ### <a name="cviko-2510"></a> 25.10.2021
+- vyhodnocení úkolů z algoritmizace a programování + ukázky řešení
+- [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_4/ctvrte_cviko.ipynb)
+- společné hledání bugu v kódu
+- uzávorkování
+- převody soustav
+
+### <a name="cviko-0111"></a> 1.11.2021
 Plán:
-- vyhodnocení úkolů z algoritmizace
 
 ----
 ## <a name="faq"></a> FAQ
