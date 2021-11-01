@@ -224,3 +224,4 @@ napiště i mě, abych včas prodloužila deadliny apod.
 Pokud potřebujete řešit svoje duševní onemocnění nebo jiná omezení, podívejte
 se na web matfyzu pro [studenty se speciálními potřebami](https://www2.karlin.mff.cuni.cz/~krump/ssp/).
 Rozhodně tyhle věci řešte včas, je to lepší, než když je to na poslední chvíli např. před zkouškou.
+
