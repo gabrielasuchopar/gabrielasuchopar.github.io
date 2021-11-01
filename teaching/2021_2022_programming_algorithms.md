@@ -36,6 +36,7 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [Algoritmizace](#zap-algo)
     - [Programování 1](#zap-progr)
     - [Bonusové body](#body)
+    - [Informace k zápočtovému programu](#zapoctak)
 - [Dotazy a konzultace](#konzultace)
 - [Obsah cvičení](#obsah-cvik)
     - [4. 10. 2021](#cviko-0410)
@@ -89,6 +90,24 @@ Body z 2. se připočtou přímo, body (1. + 3.) se přepočítají tak, aby dal
 Tj. pokud bude zadáno celkem 100b z Programování a jen 10b z (1. + 3.), každý bod
 aktivity se násobí 2,5.
 
+### <a name="zapoctak"></a> Informace k zápočtovému programu
+Podmínkou zisku zápočtu je zápočtový program, který budete programovat doma
+během semestru. **Do konce listopadu** si vyberte téma a zašlete mi ho na mail
+ke kontrole. Poté vám téma buď schválím, nebo pošlu připomínky/úpravy tématu.
+
+Zápočtový program není nutné psát v Pythonu, pokud chcete použít jiný programovací
+jazyk, předem se se mnou domluvte (ideálně už v rámci specifikace).
+
+**Deadline odevzdání**: týden + dva dny po konci zkouškového, tj. 22.02.2022
+
+Výsledek práce mi zašlete ke kontrole tak, abych mohla program spustit a vyzkoušet,
+také zašlete jeho zdrojový kód. Je možné se domluvit na osobním předvedení. Zkuste program
+dokončit s předstihem, ať se vám nehromadí povinnosti.
+
+**Náležitosti**:
+- hezký [návod](http://mj.ucw.cz/vyuka/2021/p1x/pravidla.html) napsal Martin Mareš a [další](https://github.com/Jirka-Mayer/NPRG030-062/blob/master/prg/zapoctaky.md) Jiří Mayer
+- seznam témat pro inspiraci [zde](http://mj.ucw.cz/vyuka/zap/)
+- Program **musí splňovat** náležitosti popsané na [webu](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm) RNDr. Rudolfa Kryla 
 
 ## <a name="konzultace"></a> Dotazy a konzultace
 Konzultační hodiny nemám, napište mi na mail a domluvíme se. Místo `at` je zavináč, používá se na webech kvůli botům.
@@ -148,6 +167,7 @@ ReCodEx
 ### <a name="cviko-0111"></a> 1.11.2021
 Plán:
 - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_5/pate_cviko.ipynb)
+- [spojové seznamy](https://afteracademy.com/blog/types-of-linked-list-and-operation-on-linked-list)
 
 ----
 ## <a name="faq"></a> FAQ
