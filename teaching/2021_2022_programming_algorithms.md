@@ -143,6 +143,8 @@ ReCodEx
 - uzávorkování
 - převody soustav
 
+[Řešené příklady na O notaci](/teaching/2021_2022_programming_algorithms/o_notation/)
+
 ### <a name="cviko-0111"></a> 1.11.2021
 Plán:
 - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_5/pate_cviko.ipynb)
