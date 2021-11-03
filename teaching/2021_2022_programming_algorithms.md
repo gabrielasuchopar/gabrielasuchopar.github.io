@@ -43,7 +43,8 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [11. 10. 2021](#cviko-1110)
     - [18. 10. 2021](#cviko-1810)
     - [25. 10. 2021](#cviko-2510)
-    - [1. 11. 2021](#cviko-0111) (plán)
+    - [1. 11. 2021](#cviko-0111)
+    - [8. 11. 2021](#cviko-0811) (plán)
 - [FAQ](#faq)
     - [V čem budeme programovat?](#ide)
     - [Kam budeme odevzdávat úkoly?](#ukoly)
@@ -165,9 +166,28 @@ ReCodEx
 [Řešené příklady na O notaci](/teaching/2021_2022_programming_algorithms/o_notation/)
 
 ### <a name="cviko-0111"></a> 1.11.2021
-Plán:
+- info o [zápočťácích](#zapoctak)
+    - do konce listopadu pošlete na mail specifikaci, co budete dělat
 - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_5/pate_cviko.ipynb)
 - [spojové seznamy](https://afteracademy.com/blog/types-of-linked-list-and-operation-on-linked-list)
+
+### <a name="cviko-0811"></a> 8.11.2021
+Bude suplovat [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/). Na maily s dotazy budu odpovídat.
+
+Plán:
+- ukázat řešení úkolu z O-notace
+- spojové seznamy znovu, pokud budou dotazy
+- počítání časové složitosti programu
+- ...
+
+### <a name="cviko-1511"></a> 15.11.2021
+Plán:
+- vzorová řešení úkolů z programování (s deadlinou <= 8.11.)
+- rekurze
+
+### <a name="cviko-2211"></a> 22.11.2021
+**Cviko je kratší kvůli přípravě DODu v IMPAKTu**, končíme v 15:30, ale v případě zájmu se 
+pak můžeme někam přesunout na konzultaci.
 
 ----
 ## <a name="faq"></a> FAQ
