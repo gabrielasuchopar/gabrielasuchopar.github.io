@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-TBD
-
+My [CV](/assets/CV.pdf)
