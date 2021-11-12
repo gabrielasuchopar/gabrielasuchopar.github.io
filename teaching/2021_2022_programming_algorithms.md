@@ -44,7 +44,9 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [18. 10. 2021](#cviko-1810)
     - [25. 10. 2021](#cviko-2510)
     - [1. 11. 2021](#cviko-0111)
-    - [8. 11. 2021](#cviko-0811) (plán)
+    - [8. 11. 2021](#cviko-0811)
+    - [15. 11. 2021](#cviko-1511) (plán)
+    - [22. 11. 2021](#cviko-2211) (plán)
 - [FAQ](#faq)
     - [V čem budeme programovat?](#ide)
     - [Kam budeme odevzdávat úkoly?](#ukoly)
@@ -111,6 +113,9 @@ dokončit s předstihem, ať se vám nehromadí povinnosti.
 - Program **musí splňovat** náležitosti popsané na [webu](https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm) RNDr. Rudolfa Kryla 
 
 ## <a name="konzultace"></a> Dotazy a konzultace
+Sepsala jsem krátké [howto](/teaching/2021_2022_programming_algorithms/howto/)
+na hledání chyb / jak na python.
+
 Konzultační hodiny nemám, napište mi na mail a domluvíme se. Místo `at` je zavináč, používá se na webech kvůli botům.
 
 Preferuji pracovní: `suchoparova at cs.cas.cz`
