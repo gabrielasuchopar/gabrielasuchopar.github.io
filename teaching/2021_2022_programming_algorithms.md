@@ -172,22 +172,22 @@ ReCodEx
 - [spojové seznamy](https://afteracademy.com/blog/types-of-linked-list-and-operation-on-linked-list)
 
 ### <a name="cviko-0811"></a> 8.11.2021
-Bude suplovat [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/). Na maily s dotazy budu odpovídat.
+Suploval [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/).
 
-Plán:
-- ukázat řešení úkolu z O-notace
-- spojové seznamy znovu, pokud budou dotazy
+- řešení úkolu z O-notace
+- spojové seznamy - otočení
 - počítání časové složitosti programu
-- ...
 
 ### <a name="cviko-1511"></a> 15.11.2021
 Plán:
 - vzorová řešení úkolů z programování (s deadlinou <= 8.11.)
+- [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/sedme_cviko.ipynb)
 - rekurze
 
 ### <a name="cviko-2211"></a> 22.11.2021
-**Cviko je kratší kvůli přípravě DODu v IMPAKTu**, končíme v 15:30, ale v případě zájmu se 
-pak můžeme někam přesunout na konzultaci.
+*Cviko mělo být kratší kvůli přípravě DODu v IMPAKTu*, domluvíme se, jestli budeme mít celé cviko.
+- rekurze
+- stromy haldy,...
 
 ----
 ## <a name="faq"></a> FAQ
