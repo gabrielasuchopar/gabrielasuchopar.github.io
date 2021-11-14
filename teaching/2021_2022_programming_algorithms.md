@@ -188,6 +188,7 @@ Plán:
 - vzorová řešení úkolů z programování (s deadlinou <= 8.11.)
 - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/sedme_cviko.ipynb)
 - rekurze
+- [binární vyhledávací strom](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/BVS.ipynb), možná až příště
 
 ### <a name="cviko-2211"></a> 22.11.2021
 *Cviko mělo být kratší kvůli přípravě DODu v IMPAKTu*, domluvíme se, jestli budeme mít celé cviko.
