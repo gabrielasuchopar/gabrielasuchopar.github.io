@@ -220,6 +220,7 @@ Postup pro první přihlášení do ReCodExu:
     
 ### <a name="materialy"></a> Kde najdu další materiály na procvičení?
 Základní informace a slajdy najdete na stránkách přenášejících, viz [výše](#basic-info).
+Něco najdete i [zde](/teaching/2021_2022_programming_algorithms/exercises/).
 
 **Algoritmizace**
 

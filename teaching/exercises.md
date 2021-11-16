@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Úlohy na procvičení
-permalink: /teaching/2021_2022_programming_algorithms/howto/
+permalink: /teaching/2021_2022_programming_algorithms/exercises/
 ---
 
 ## Úlohy na procvičení
