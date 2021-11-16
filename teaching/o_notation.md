@@ -3,6 +3,15 @@ layout: default
 title: O notace
 permalink: /teaching/2021_2022_programming_algorithms/o_notation/
 ---
+# O notace – náhradní úkol
+[Zde](/assets/img/o_notace/new_assignments.pdf) najdete zadání pár cvičných
+neřešených úloh + domácích úkolů, které můžete vyřešit a dostat body (pokud
+jste nevyřešili původní úkol). Kdo má body z původního úkolu, může tyto úlohy
+použít jako přípravu ke zkoušce.
+
+Úlohy k procvičení (první část 1.-3.) se mnou můžete probírat přes mail nebo osobně,
+v části 2. jsou úkoly které odevzdáte na body.
+
 # O notace – příklady
 
 ## Důkaz - potvrzení platnosti tvrzení
