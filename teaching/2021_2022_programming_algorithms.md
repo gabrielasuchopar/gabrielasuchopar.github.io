@@ -45,7 +45,7 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [25. 10. 2021](#cviko-2510)
     - [1. 11. 2021](#cviko-0111)
     - [8. 11. 2021](#cviko-0811)
-    - [15. 11. 2021](#cviko-1511) (plán)
+    - [15. 11. 2021](#cviko-1511)
     - [22. 11. 2021](#cviko-2211) (plán)
 - [FAQ](#faq)
     - [V čem budeme programovat?](#ide)
@@ -184,16 +184,22 @@ Suploval [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/).
 - počítání časové složitosti programu
 
 ### <a name="cviko-1511"></a> 15.11.2021
-Plán:
 - vzorová řešení úkolů z programování (s deadlinou <= 8.11.)
 - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/sedme_cviko.ipynb)
-- rekurze
-- [binární vyhledávací strom](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/BVS.ipynb), možná až příště
+- halda a binární vyhledávací strom
+    - porovnání na co se hodí
+    - jak se liší
 
 ### <a name="cviko-2211"></a> 22.11.2021
-*Cviko mělo být kratší kvůli přípravě DODu v IMPAKTu*, domluvíme se, jestli budeme mít celé cviko.
+Plán:
+- stromy a haldy v kódu
+  - [binární vyhledávací strom](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/BVS.ipynb)
+  - [heapa](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_8/heap.ipynb)
 - rekurze
-- stromy haldy,...
+- souborů
+    - jak je číst a jak do nich zapisovat
+    - jak si vyrobit vlastní testy
+    - [kód](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_8/)
 
 ----
 ## <a name="faq"></a> FAQ
