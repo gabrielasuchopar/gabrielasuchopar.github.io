@@ -46,7 +46,11 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [1. 11. 2021](#cviko-0111)
     - [8. 11. 2021](#cviko-0811)
     - [15. 11. 2021](#cviko-1511)
-    - [22. 11. 2021](#cviko-2211) (plán)
+    - [22. 11. 2021](#cviko-2211)
+    - [29. 11. 2021](#cviko-2911)
+    - (cvika v prosinci)
+    - [20. 12. 2021](#cviko-2012) - zápočtový test
+    - [3. 1. 2021](#cviko-0301) - opravný termín zápočtového testu
 - [FAQ](#faq)
     - [V čem budeme programovat?](#ide)
     - [Kam budeme odevzdávat úkoly?](#ukoly)
@@ -191,15 +195,37 @@ Suploval [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/).
     - jak se liší
 
 ### <a name="cviko-2211"></a> 22.11.2021
-Plán:
 - stromy a haldy v kódu
   - [binární vyhledávací strom](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_7/BVS.ipynb)
   - [heapa](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_8/heap.ipynb)
-- rekurze
-- souborů
+- soubory
     - jak je číst a jak do nich zapisovat
     - jak si vyrobit vlastní testy
     - [kód](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_8/)
+
+### <a name="cviko-2911"></a> 29.11.2021
+- znovu o haldě, vyhodnocení testíků
+- rekurze
+    - jak si počítač pamatuje minulá volání (stack)
+    - fibonacci a další [úlohy](https://github.com/gabrielasuchopar/programming1/tree/main/cviko_9)
+- merge sort na souborech, rekurzivně
+- příkazová řádka 101
+
+................ prosincová cvika ................
+
+### <a name="cviko-2012"></a> 20.12.2021
+Plán: **zápočtový test**
+- napsat a odladit během cvika program v recodexu
+- k dispozici minulé kódy v recodexu, ale ne zdroje odjinud
+- budu kontrolovat kód na plagiáty + jestli se nepodobá výsledkům na stackoverflow
+- **dejte vědět včas, pokud potřebujete čas navíc**
+- doporučuju jít i na tento termín, i když si na něj třeba ještě nevěříte
+
+### <a name="cviko-0301"></a> 3.1.2022
+Plán: **opravný termín zápočťáku**
+- a navíc opakování ke zkoušce
+- možná ještě něco proberem
+
 
 ----
 ## <a name="faq"></a> FAQ
