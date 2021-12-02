@@ -220,6 +220,7 @@ Plán:
 - prohledávání do šířky/do hloubky
 - rekurze a BVS
 - [Advent of Code](https://adventofcode.com/)
+- [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_10/cviko_10.ipynb)
 
 ................ prosincová cvika ................
 
