@@ -48,7 +48,8 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [15. 11. 2021](#cviko-1511)
     - [22. 11. 2021](#cviko-2211)
     - [29. 11. 2021](#cviko-2911)
-    - (cvika v prosinci)
+    - [6. 12. 2021](#cviko-0612)
+    - (cviko v prosinci)
     - [20. 12. 2021](#cviko-2012) - zápočtový test
     - [3. 1. 2021](#cviko-0301) - opravný termín zápočtového testu
 - [FAQ](#faq)
@@ -136,6 +137,9 @@ o víkendech nečtu, takže některé věci pište rovnou na osobní mail, např
 Zde budu zveřejňovat stručný přehled toho, co jsme na cviku dělali.
 Cvičný kód najdete v repozitáři na mém [GitHubu](https://github.com/gabrielasuchopar/programming1).
 
+Minulé testíky: [cviko 2](https://forms.gle/nMiLCbhGjqe7w5jHA),
+[cviko 7](https://forms.gle/u4VDbshjBmU9NkXd8), [cviko 8](https://forms.gle/5UDjAvfYXY2bhW7B7)
+
 ### <a name="cviko-0410"></a> 4.10.2021
 Úlohy na procvičení
 - Ciferný součet 2021!
@@ -210,6 +214,12 @@ Suploval [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/).
     - fibonacci a další [úlohy](https://github.com/gabrielasuchopar/programming1/tree/main/cviko_9)
 - merge sort na souborech, rekurzivně
 - příkazová řádka 101
+
+### <a name="cviko-0612"></a> 6.12.2021
+Plán:
+- prohledávání do šířky/do hloubky
+- rekurze a BVS
+- [Advent of Code](https://adventofcode.com/)
 
 ................ prosincová cvika ................
 

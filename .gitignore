@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 _node_modules
 package-lock.json
+.idea
