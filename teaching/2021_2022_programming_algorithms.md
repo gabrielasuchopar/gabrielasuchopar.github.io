@@ -224,6 +224,9 @@ Suploval [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/).
 Plán:
 - BFS v kódu
 - [Advent of Code](https://adventofcode.com/)
+- [kód ke cviku](https://github.com/gabrielasuchopar/programming1/tree/main/cviko_11)
+    - příklad BFSka a hrací desky
+    - dědičnost v pythonu
 
 ### <a name="cviko-2012"></a> 20.12.2021
 Plán: **zápočtový test**
@@ -234,10 +237,10 @@ Plán: **zápočtový test**
 - doporučuju jít i na tento termín, i když si na něj třeba ještě nevěříte
 
 ### <a name="cviko-0301"></a> 3.1.2022
-Plán: **opravný termín zápočťáku**
+Plán: **opravný termín zápočťáku** - možná bude jindy dle domluvy (pár lidí má prej předtermín)
 - a navíc opakování ke zkoušce
 - možná ještě něco proberem
-
+- náplň je na vás
 
 ----
 ## <a name="faq"></a> FAQ
