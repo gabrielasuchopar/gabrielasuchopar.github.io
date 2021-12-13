@@ -49,7 +49,7 @@ Aktuální situaci najdete [zde](https://covid.gov.cz/situace/skolstvi/vysoke-sk
     - [22. 11. 2021](#cviko-2211)
     - [29. 11. 2021](#cviko-2911)
     - [6. 12. 2021](#cviko-0612)
-    - (cviko v prosinci)
+    - [13. 12. 2021](#cviko-1312)
     - [20. 12. 2021](#cviko-2012) - zápočtový test
     - [3. 1. 2021](#cviko-0301) - opravný termín zápočtového testu
 - [FAQ](#faq)
@@ -216,13 +216,14 @@ Suploval [Ondra Mička](https://ktiml.mff.cuni.cz/~micka/).
 - příkazová řádka 101
 
 ### <a name="cviko-0612"></a> 6.12.2021
-Plán:
 - prohledávání do šířky/do hloubky
 - rekurze a BVS
-- [Advent of Code](https://adventofcode.com/)
 - [notebook](https://github.com/gabrielasuchopar/programming1/blob/main/cviko_10/cviko_10.ipynb)
 
-................ prosincová cvika ................
+### <a name="cviko-1312"></a> 13.12.2021
+Plán:
+- BFS v kódu
+- [Advent of Code](https://adventofcode.com/)
 
 ### <a name="cviko-2012"></a> 20.12.2021
 Plán: **zápočtový test**
