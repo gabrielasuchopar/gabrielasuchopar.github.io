@@ -5,7 +5,10 @@
 layout: default
 ---
 
-## Gabriela Suchopárová
+## Gabriela Kadlecová (née Suchopárová)
+
+# My name changed, visit [my new page](https://gabikadlecova.github.io)
+
 I am a PhD student of Theoretical Computer Science and Artificial Intelligence at [MFF UK](https://www.mff.cuni.cz/en),
 I also work at the [Institute of Computer Science](https://www.cs.cas.cz/en) of the Czech Academy of Sciences.
 
